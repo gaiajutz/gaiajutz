@@ -4,7 +4,11 @@
 ###
 <div align="center"> <h3> 🦇 GAIA, 27, brazilian artist and front-end student 🦇 </h3>
 <p>Studying <b>Systems Analysis and Development</b>  | Estudando <b>Análise e Desenvolvimento de Sistemas</b> na FAM </p>
-<p>Native Portuguese Speaker | C2 English | B1 Spanish </p></div><br>
+<p>Native Portuguese Speaker | C2 English | B1 Spanish </p><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiajutz&theme=shadow_red)](https://github.com/gaiajutz/github-readme-stats)
+</div>
+<br>
 
 <div align="center"><img src="https://github.com/gaiajutz/gaiajutz/blob/main/images/heart-black.gif?raw=true" width=30>
 
@@ -16,8 +20,6 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <br>
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiajutz)](https://github.com/gaiajutz/github-readme-stats)
   
  <br>
 
